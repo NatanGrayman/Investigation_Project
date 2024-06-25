@@ -4,7 +4,7 @@
 ## Overview
 This project investigates how real-world events are reflected in social media signals, particularly on Twitter. By analyzing datasets from Kaggle, the Internet Archive, and GDELT, the study focuses on protests, natural disasters, and election cycles. Techniques such as seasonal decomposition and LOESS regression were employed to identify trends and create distinct event archetypes.
 
-The project achieved a distinction (80%) under the auspices of [Prof. Martin Bekker](https://www.linkedin.com/in/martinbekker/)) and was moderated by ECSA.
+The project achieved a distinction (80%) under the auspices of [Prof. Martin Bekker](https://www.linkedin.com/in/martinbekker/) and was moderated by ECSA.
 
 
 ## Key Findings
